@@ -6,7 +6,7 @@ using namespace std;
 
 int main()
 {
-    short x;
+    int x;
 
     cout << "Enter a value: ";
     cin >> x;
@@ -16,4 +16,5 @@ int main()
     return 0;
 }
 
-//Limit is 32768
+//Limit is 2147483647
+//Limit for unsigned 4294967295
